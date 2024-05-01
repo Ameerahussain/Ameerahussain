@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Ameera Hussain
+I am Ameerah  Hussain
 <!--
 **Ameerahussain/Ameerahussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
