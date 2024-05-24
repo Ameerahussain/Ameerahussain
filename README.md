@@ -1,4 +1,4 @@
-![GIF Title](https://github.com/Pujakumari1202/pujakumari1202/blob/main/KIRoKAZE.gif)
+![GIF Title](https://github.com/Ameerahussain/Ameerahussain/blob/main/KIRoKAZE.gif)
 
 
 <h1 align="center">Hi 👋, I'm Ameerah Hussain</h1>
@@ -19,8 +19,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Ammyhussain8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ammyhussain8" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/ameerah-hussain-311126269 http://www.linkedin.com/in/ameerah-hussain-311126269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/amansingh-xcriminal http://www.linkedin.com/in/ameerah-hussain-311126269" height="30" width="40" /></a>
-<a href="https://instagram.com/amansingh__x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amansingh__x" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/http://www.linkedin.com/in/ameerah-hussain-311126269 http://www.linkedin.com/in/ameerah-hussain-311126269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/ameerah-hussain-311126269 http://www.linkedin.com/in/ameerah-hussain-311126269" height="30" width="40" /></a>
+<a href="https://instagram.com/aaameerahhhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaameerahhhh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
